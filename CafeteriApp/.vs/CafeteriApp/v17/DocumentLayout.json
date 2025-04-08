@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\proyecto programacion 24-25\\cafeteriapp\\cafeteriapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:cafeteriapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafeteriApp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\CafeteriApp.csproj",
+              "RelativeDocumentMoniker": "CafeteriApp.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\CafeteriApp.csproj",
+              "RelativeToolTip": "CafeteriApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T09:48:22.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\bin\Debug\net8.0\CafeteriApp.exe
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\bin\Debug\net8.0\CafeteriApp.deps.json
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\bin\Debug\net8.0\CafeteriApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\bin\Debug\net8.0\CafeteriApp.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\bin\Debug\net8.0\CafeteriApp.pdb
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.sourcelink.json
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\refint\CafeteriApp.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.pdb
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\ref\CafeteriApp.dll
