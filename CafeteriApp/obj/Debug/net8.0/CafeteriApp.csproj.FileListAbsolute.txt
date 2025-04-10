@@ -13,3 +13,18 @@ C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.
 C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.pdb
 C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\CafeteriApp.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION 24-25\CafeteriApp\obj\Debug\net8.0\ref\CafeteriApp.dll
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\bin\Debug\net8.0\CafeteriApp.exe
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\bin\Debug\net8.0\CafeteriApp.deps.json
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\bin\Debug\net8.0\CafeteriApp.runtimeconfig.json
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\bin\Debug\net8.0\CafeteriApp.dll
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\bin\Debug\net8.0\CafeteriApp.pdb
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.AssemblyInfoInputs.cache
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.AssemblyInfo.cs
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.csproj.CoreCompileInputs.cache
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.sourcelink.json
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.dll
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\refint\CafeteriApp.dll
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.pdb
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\CafeteriApp.genruntimeconfig.cache
+C:\Users\cruzg\OneDrive\Escritorio\CafeteriApp\CafeteriApp\obj\Debug\net8.0\ref\CafeteriApp.dll
