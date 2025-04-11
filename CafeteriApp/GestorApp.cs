@@ -14,7 +14,7 @@ namespace CafeteriApp
         {
             inicioSesion = new InicioSesion();
             inicioSesion.IniciarSesion();
-            if (inicioSesion.UsuarioAutenticado)
+            if (inicioSesion.ValidarCredenciales())
             {
                 Console.WriteLine("Bienvenido a la aplicación de cafetería.");
                 // Aquí puedes agregar más lógica para la aplicación después de iniciar sesión.

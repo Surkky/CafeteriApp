@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\proyecto programacion 24-25\\cafeteriapp\\cafeteriapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:cafeteriapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\cafeteriapp 24-25\\cafeteriapp\\gestorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:gestorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\cafeteriapp 24-25\\cafeteriapp\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\cafeteriapp 24-25\\cafeteriapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|c:\\users\\usuario\\desktop\\cafeteriapp 24-25\\cafeteriapp\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB1F1F-B5E0-4E47-8C48-1FA82DA17C67}|CafeteriApp.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -29,16 +37,59 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:24:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:24:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "InicioSesion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\InicioSesion.cs",
+              "RelativeToolTip": "InicioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:24:00.716Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CafeteriApp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\CafeteriApp.csproj",
-              "RelativeDocumentMoniker": "CafeteriApp.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PROYECTO PROGRAMACION 24-25\\CafeteriApp\\CafeteriApp.csproj",
-              "RelativeToolTip": "CafeteriApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T09:48:22.455Z",
+              "Title": "GestorApp.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\GestorApp.cs",
+              "RelativeDocumentMoniker": "GestorApp.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CafeteriApp 24-25\\CafeteriApp\\GestorApp.cs",
+              "RelativeToolTip": "GestorApp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:23:59.741Z",
               "EditorCaption": ""
             }
           ]
