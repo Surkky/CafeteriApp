@@ -6,16 +6,20 @@ namespace CafeteriApp
 {
     public class Usuario
     {
+        string nombre;
+        string contrasena;
+        //string permisos;
+
         public string Nombre { get; set; }
         public string Contrasena { get; set; }
-        public string Permisos { get; set; }
+        //public string Permisos { get; set; }
 
-        public Usuario(string permisos, string username, string contrasena)
+        public Usuario(string username, string contrasena)
         {
-            Permisos = permisos;
             Nombre = username;
             Contrasena = contrasena;
         }
+        public Usuario() { }    
 
         public static List<Usuario> CargarUsuarios(string rutaFichero)
         {
@@ -24,13 +28,13 @@ namespace CafeteriApp
             {
                 foreach (string linea in File.ReadAllLines(rutaFichero))
                 {
-                    var datos = linea.Trim().Split(':');
+                    string [] datos = linea.Trim().Split(':');
                     if (datos.Length == 3)
                     {
                         string permisos = datos[0];
                         string username = datos[1];
                         string contrasena = datos[2];
-                        usuarios.Add(new Usuario(permisos, username, contrasena));
+                        usuarios.Add(new Usuario(username, contrasena));
                     }
                 }
             }
