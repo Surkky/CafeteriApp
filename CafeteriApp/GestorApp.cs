@@ -9,11 +9,11 @@ namespace CafeteriApp
         {
             IniciarApp();
         }
-
+       
         public void IniciarApp()
         {
             inicioSesion = new InicioSesion();
-            inicioSesion.IniciarSesion();
+            //inicioSesion.IniciarSesion();
             if (inicioSesion.ValidarCredenciales())
             {
                 Console.WriteLine("Bienvenido a la aplicación de cafetería.");
