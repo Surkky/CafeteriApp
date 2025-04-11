@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CafeteriApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a2d6c58cb9e5307a4f5f0de789772f0ee3b2d56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c2420ddab7fc3a79918ff80e2232c1bc6ce85f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CafeteriApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CafeteriApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
